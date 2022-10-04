@@ -5,13 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitijmishra27" alt="kshitijmishra27" /></a> </p>
 
-- 🌱 I’m currently learning **React js , Full stack development**
+- 🔭 I’m currently working on **Web development , DSA**
+
+- 🌱 I’m currently learning **Full stack development**
+
+- 👯 I’m looking to collaborate on **Open Source , Content Creation**
+
+- 🤝 I’m looking for help with **Web development , Open source**
 
 - 💬 Ask me about **Web development, Open source , Competitive Programming**
 
+- 📫 How to reach me **kshitijmishra27**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kshitij mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitij mishra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kshitijmishra27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitijmishra27" height="30" width="40" /></a>
 <a href="https://instagram.com/kshitij_mishra27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitij_mishra27" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kshitij123k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kshitij123k" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kshitijmishra27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kshitijmishra27" height="30" width="40" /></a>
