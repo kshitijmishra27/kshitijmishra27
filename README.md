@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshitijmishra27" alt="kshitijmishra27" /></a> </p>
 
+<div> 
+<img src="gif.gif" width="300px" alt=gif align="right"> 
+</div>
+  <br />
+
 - 🔭 I’m currently working on **Web development , DSA**
 
 - 🌱 I’m currently learning **Full stack development**
