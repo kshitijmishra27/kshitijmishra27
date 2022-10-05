@@ -8,7 +8,7 @@
 <div> 
 <img src="gif.gif" width="300px" alt=gif align="right"> 
 </div>
-  <br />
+
 
 - 🔭 I’m currently working on **Web development , DSA**
 
