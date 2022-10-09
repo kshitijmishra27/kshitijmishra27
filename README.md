@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Open source , DSA/CP , Anime😁**
 
-- 📫 How to reach me **vaibhavchaubey8802@gmail.com**  or **[LinkedIn](https://linkedin.com/in/kshitijmishra27)**
+- 📫 How to reach me **kshitijmishra27@gmail.com**  or **[LinkedIn](https://linkedin.com/in/kshitijmishra27)**
 
 - 📄  My Resume [Link](https://drive.google.com/file/d/1o3DyJ-Jgw6gwhi-w07CQY-gR4--luNlA/view?usp=sharing)
 
