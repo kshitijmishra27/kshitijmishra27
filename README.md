@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **kshitijmishra27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o3DyJ-Jgw6gwhi-w07CQY-gR4--luNlA/view?usp=sharing](https://drive.google.com/file/d/1o3DyJ-Jgw6gwhi-w07CQY-gR4--luNlA/view?usp=sharing)
+- 📄 📄 My Resume [Link]([https://drive.google.com/file/d/1ujBJLm11uPnq_XZQa9w2IHo0L_bLdcPx/view?usp=sharing](https://drive.google.com/file/d/1o3DyJ-Jgw6gwhi-w07CQY-gR4--luNlA/view?usp=sharing)
 
 - ⚡ Fun fact **i love watching Anime and playing battle royale games like PUBG, COD, Apex legends**
 
