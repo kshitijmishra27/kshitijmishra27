@@ -28,7 +28,7 @@
 
 - ⚡ Fun fact **i love watching Anime and playing battle royale games like PUBG, COD, Apex legends**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social and coding Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kshitijmishra27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitijmishra27" height="30" width="40" /></a>
 <a href="https://instagram.com/kshitij_mishra27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshitij_mishra27" height="30" width="40" /></a>
